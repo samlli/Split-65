@@ -310,7 +310,7 @@
   )
 
   (module Diode_SMD:D_0603_1608Metric_Pad1.05x0.95mm_HandSolder (layer F.Cu) (tedit 5B4B45C8) (tstamp 5C0B57A4)
-    (at 146.001251 171.242501)
+    (at 129.332501 314.117501)
     (descr "Diode SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "diode handsolder")
     (path /5BF41200)
@@ -728,7 +728,7 @@
   )
 
   (module Diode_SMD:D_0603_1608Metric_Pad1.05x0.95mm_HandSolder (layer F.Cu) (tedit 5B4B45C8) (tstamp 5C0B5875)
-    (at 186.681251 169.962501)
+    (at 170.012501 312.837501)
     (descr "Diode SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "diode handsolder")
     (path /5BF41AF3)
@@ -880,7 +880,7 @@
   )
 
   (module Diode_SMD:D_0603_1608Metric_Pad1.05x0.95mm_HandSolder (layer F.Cu) (tedit 5B4B45C8) (tstamp 5C0B58C1)
-    (at 183.291251 171.552501)
+    (at 166.622501 314.427501)
     (descr "Diode SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "diode handsolder")
     (path /5BF411EB)
@@ -918,7 +918,7 @@
   )
 
   (module Diode_SMD:D_0603_1608Metric_Pad1.05x0.95mm_HandSolder (layer F.Cu) (tedit 5B4B45C8) (tstamp 5C0B58D4)
-    (at 182.351251 169.962501)
+    (at 165.682501 312.837501)
     (descr "Diode SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "diode handsolder")
     (path /5BF41AEC)
@@ -956,7 +956,7 @@
   )
 
   (module Diode_SMD:D_0603_1608Metric_Pad1.05x0.95mm_HandSolder (layer F.Cu) (tedit 5B4B45C8) (tstamp 5C0B58E7)
-    (at 179.901251 171.552501)
+    (at 163.232501 314.427501)
     (descr "Diode SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "diode handsolder")
     (path /5BF44678)
@@ -1374,7 +1374,7 @@
   )
 
   (module Diode_SMD:D_0603_1608Metric_Pad1.05x0.95mm_HandSolder (layer F.Cu) (tedit 5B4B45C8) (tstamp 5C0B59B8)
-    (at 169.731251 171.552501)
+    (at 153.062501 314.427501)
     (descr "Diode SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "diode handsolder")
     (path /5BF40B0A)
@@ -1526,7 +1526,7 @@
   )
 
   (module Diode_SMD:D_0603_1608Metric_Pad1.05x0.95mm_HandSolder (layer F.Cu) (tedit 5B4B45C8) (tstamp 5C0B5A04)
-    (at 176.511251 171.552501)
+    (at 159.842501 314.427501)
     (descr "Diode SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "diode handsolder")
     (path /5BF35089)
@@ -1564,7 +1564,7 @@
   )
 
   (module Diode_SMD:D_0603_1608Metric_Pad1.05x0.95mm_HandSolder (layer F.Cu) (tedit 5B4B45C8) (tstamp 5C0B5A17)
-    (at 178.961251 169.962501)
+    (at 162.292501 312.837501)
     (descr "Diode SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "diode handsolder")
     (path /5BF467DC)
@@ -1602,7 +1602,7 @@
   )
 
   (module Diode_SMD:D_0603_1608Metric_Pad1.05x0.95mm_HandSolder (layer F.Cu) (tedit 5B4B45C8) (tstamp 5C0B5A2A)
-    (at 175.571251 169.962501)
+    (at 158.902501 312.837501)
     (descr "Diode SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "diode handsolder")
     (path /5BF46B29)
@@ -1640,7 +1640,7 @@
   )
 
   (module Diode_SMD:D_0603_1608Metric_Pad1.05x0.95mm_HandSolder (layer F.Cu) (tedit 5B4B45C8) (tstamp 5C0B5A3D)
-    (at 173.121251 171.552501)
+    (at 156.452501 314.427501)
     (descr "Diode SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "diode handsolder")
     (path /5BF46CFB)
@@ -1716,7 +1716,7 @@
   )
 
   (module Diode_SMD:D_0603_1608Metric_Pad1.05x0.95mm_HandSolder (layer F.Cu) (tedit 5B4B45C8) (tstamp 5C0B5A63)
-    (at 172.181251 169.962501)
+    (at 155.512501 312.837501)
     (descr "Diode SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "diode handsolder")
     (path /5BF47006)
@@ -1792,7 +1792,7 @@
   )
 
   (module Diode_SMD:D_0603_1608Metric_Pad1.05x0.95mm_HandSolder (layer F.Cu) (tedit 5B4B45C8) (tstamp 5C0B5A89)
-    (at 186.681251 171.552501)
+    (at 170.012501 314.427501)
     (descr "Diode SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "diode handsolder")
     (path /5BF46B1B)
@@ -1830,7 +1830,7 @@
   )
 
   (module Diode_SMD:D_0603_1608Metric_Pad1.05x0.95mm_HandSolder (layer F.Cu) (tedit 5B4B45C8) (tstamp 5C0B5A9C)
-    (at 166.341251 171.552501)
+    (at 149.672501 314.427501)
     (descr "Diode SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "diode handsolder")
     (path /5BF46CED)
@@ -1868,7 +1868,7 @@
   )
 
   (module Diode_SMD:D_0603_1608Metric_Pad1.05x0.95mm_HandSolder (layer F.Cu) (tedit 5B4B45C8) (tstamp 5C0B5AAF)
-    (at 168.791251 169.962501)
+    (at 152.122501 312.837501)
     (descr "Diode SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "diode handsolder")
     (path /5BF46E6E)
@@ -1906,7 +1906,7 @@
   )
 
   (module Diode_SMD:D_0603_1608Metric_Pad1.05x0.95mm_HandSolder (layer F.Cu) (tedit 5B4B45C8) (tstamp 5C0B5AC2)
-    (at 165.401251 169.962501)
+    (at 148.732501 312.837501)
     (descr "Diode SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "diode handsolder")
     (path /5BF46636)
@@ -1944,7 +1944,7 @@
   )
 
   (module Diode_SMD:D_0603_1608Metric_Pad1.05x0.95mm_HandSolder (layer F.Cu) (tedit 5B4B45C8) (tstamp 5C0B5AD5)
-    (at 162.951251 171.552501)
+    (at 146.282501 314.427501)
     (descr "Diode SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "diode handsolder")
     (path /5BF46B14)
@@ -1982,7 +1982,7 @@
   )
 
   (module Diode_SMD:D_0603_1608Metric_Pad1.05x0.95mm_HandSolder (layer F.Cu) (tedit 5B4B45C8) (tstamp 5C0B5AE8)
-    (at 159.561251 171.552501)
+    (at 142.892501 314.427501)
     (descr "Diode SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "diode handsolder")
     (path /5BF46CE6)
@@ -2020,7 +2020,7 @@
   )
 
   (module Diode_SMD:D_0603_1608Metric_Pad1.05x0.95mm_HandSolder (layer F.Cu) (tedit 5B4B45C8) (tstamp 5C0B5AFB)
-    (at 156.171251 171.242501)
+    (at 139.502501 314.117501)
     (descr "Diode SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "diode handsolder")
     (path /5BF46E67)
@@ -2058,7 +2058,7 @@
   )
 
   (module Diode_SMD:D_0603_1608Metric_Pad1.05x0.95mm_HandSolder (layer F.Cu) (tedit 5B4B45C8) (tstamp 5C0B5B0E)
-    (at 162.011251 169.962501)
+    (at 145.342501 312.837501)
     (descr "Diode SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "diode handsolder")
     (path /5BF46FF1)
@@ -2096,7 +2096,7 @@
   )
 
   (module Diode_SMD:D_0603_1608Metric_Pad1.05x0.95mm_HandSolder (layer F.Cu) (tedit 5B4B45C8) (tstamp 5C0B5B21)
-    (at 152.781251 171.242501)
+    (at 136.112501 314.117501)
     (descr "Diode SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "diode handsolder")
     (path /5BF4662F)
@@ -2134,7 +2134,7 @@
   )
 
   (module Diode_SMD:D_0603_1608Metric_Pad1.05x0.95mm_HandSolder (layer F.Cu) (tedit 5B4B45C8) (tstamp 5C0B5B34)
-    (at 118.881251 171.242501)
+    (at 102.212501 314.117501)
     (descr "Diode SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "diode handsolder")
     (path /5BF46B0D)
@@ -2172,7 +2172,7 @@
   )
 
   (module Diode_SMD:D_0603_1608Metric_Pad1.05x0.95mm_HandSolder (layer F.Cu) (tedit 5B4B45C8) (tstamp 5C0B5B47)
-    (at 149.391251 171.242501)
+    (at 132.722501 314.117501)
     (descr "Diode SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "diode handsolder")
     (path /5BF46CDF)
@@ -2210,7 +2210,7 @@
   )
 
   (module Diode_SMD:D_0603_1608Metric_Pad1.05x0.95mm_HandSolder (layer F.Cu) (tedit 5B4B45C8) (tstamp 5C0B5B5A)
-    (at 142.611251 171.242501)
+    (at 125.942501 314.117501)
     (descr "Diode SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "diode handsolder")
     (path /5BF46E60)
@@ -2248,7 +2248,7 @@
   )
 
   (module Diode_SMD:D_0603_1608Metric_Pad1.05x0.95mm_HandSolder (layer F.Cu) (tedit 5B4B45C8) (tstamp 5C0B5B6D)
-    (at 139.221251 171.242501)
+    (at 122.552501 314.117501)
     (descr "Diode SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "diode handsolder")
     (path /5BF46FEA)
@@ -2286,7 +2286,7 @@
   )
 
   (module Diode_SMD:D_0603_1608Metric_Pad1.05x0.95mm_HandSolder (layer F.Cu) (tedit 5B4B45C8) (tstamp 5C0B5B80)
-    (at 135.831251 171.242501)
+    (at 119.162501 314.117501)
     (descr "Diode SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "diode handsolder")
     (path /5BF46628)
@@ -2324,7 +2324,7 @@
   )
 
   (module Diode_SMD:D_0603_1608Metric_Pad1.05x0.95mm_HandSolder (layer F.Cu) (tedit 5B4B45C8) (tstamp 5C0B5B93)
-    (at 132.441251 171.242501)
+    (at 115.772501 314.117501)
     (descr "Diode SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "diode handsolder")
     (path /5BF46B06)
@@ -2362,7 +2362,7 @@
   )
 
   (module Diode_SMD:D_0603_1608Metric_Pad1.05x0.95mm_HandSolder (layer F.Cu) (tedit 5B4B45C8) (tstamp 5C0B5BA6)
-    (at 129.051251 171.242501)
+    (at 112.382501 314.117501)
     (descr "Diode SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "diode handsolder")
     (path /5BF46CD8)
@@ -2400,7 +2400,7 @@
   )
 
   (module Diode_SMD:D_0603_1608Metric_Pad1.05x0.95mm_HandSolder (layer F.Cu) (tedit 5B4B45C8) (tstamp 5C0B5BB9)
-    (at 125.661251 171.242501)
+    (at 108.992501 314.117501)
     (descr "Diode SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "diode handsolder")
     (path /5BF46E59)
@@ -2438,7 +2438,7 @@
   )
 
   (module Diode_SMD:D_0603_1608Metric_Pad1.05x0.95mm_HandSolder (layer F.Cu) (tedit 5B4B45C8) (tstamp 5C0B5BCC)
-    (at 122.271251 171.242501)
+    (at 105.602501 314.117501)
     (descr "Diode SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "diode handsolder")
     (path /5BF46FE3)
@@ -2476,7 +2476,7 @@
   )
 
   (module Diode_SMD:D_0603_1608Metric_Pad1.05x0.95mm_HandSolder (layer F.Cu) (tedit 5B4B45C8) (tstamp 5C0B5BDF)
-    (at 68.031251 171.242501)
+    (at 51.362501 314.117501)
     (descr "Diode SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "diode handsolder")
     (path /5BF46621)
@@ -2514,7 +2514,7 @@
   )
 
   (module Diode_SMD:D_0603_1608Metric_Pad1.05x0.95mm_HandSolder (layer F.Cu) (tedit 5B4B45C8) (tstamp 5C0B5BF2)
-    (at 61.251251 171.242501)
+    (at 44.582501 314.117501)
     (descr "Diode SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "diode handsolder")
     (path /5BF46AFF)
@@ -2552,7 +2552,7 @@
   )
 
   (module Diode_SMD:D_0603_1608Metric_Pad1.05x0.95mm_HandSolder (layer F.Cu) (tedit 5B4B45C8) (tstamp 5C0B5C05)
-    (at 115.491251 171.242501)
+    (at 98.822501 314.117501)
     (descr "Diode SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "diode handsolder")
     (path /5BF46CD1)
@@ -2590,7 +2590,7 @@
   )
 
   (module Diode_SMD:D_0603_1608Metric_Pad1.05x0.95mm_HandSolder (layer F.Cu) (tedit 5B4B45C8) (tstamp 5C0B5C18)
-    (at 112.101251 171.242501)
+    (at 95.432501 314.117501)
     (descr "Diode SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "diode handsolder")
     (path /5BF46E52)
@@ -2628,7 +2628,7 @@
   )
 
   (module Diode_SMD:D_0603_1608Metric_Pad1.05x0.95mm_HandSolder (layer F.Cu) (tedit 5B4B45C8) (tstamp 5C0B5C2B)
-    (at 108.711251 171.242501)
+    (at 92.042501 314.117501)
     (descr "Diode SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "diode handsolder")
     (path /5BF46FDC)
@@ -2666,7 +2666,7 @@
   )
 
   (module Diode_SMD:D_0603_1608Metric_Pad1.05x0.95mm_HandSolder (layer F.Cu) (tedit 5B4B45C8) (tstamp 5C0B5C3E)
-    (at 105.321251 171.242501)
+    (at 88.652501 314.117501)
     (descr "Diode SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "diode handsolder")
     (path /5BF4661A)
@@ -2704,7 +2704,7 @@
   )
 
   (module Diode_SMD:D_0603_1608Metric_Pad1.05x0.95mm_HandSolder (layer F.Cu) (tedit 5B4B45C8) (tstamp 5C0B5C51)
-    (at 101.931251 171.242501)
+    (at 85.262501 314.117501)
     (descr "Diode SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "diode handsolder")
     (path /5BF46AF8)
@@ -2742,7 +2742,7 @@
   )
 
   (module Diode_SMD:D_0603_1608Metric_Pad1.05x0.95mm_HandSolder (layer F.Cu) (tedit 5B4B45C8) (tstamp 5C0B5C64)
-    (at 98.541251 171.242501)
+    (at 81.872501 314.117501)
     (descr "Diode SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "diode handsolder")
     (path /5BF46613)
@@ -2780,7 +2780,7 @@
   )
 
   (module Diode_SMD:D_0603_1608Metric_Pad1.05x0.95mm_HandSolder (layer F.Cu) (tedit 5B4B45C8) (tstamp 5C0B5C77)
-    (at 95.151251 171.242501)
+    (at 78.482501 314.117501)
     (descr "Diode SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "diode handsolder")
     (path /5BF46AF1)
@@ -2818,7 +2818,7 @@
   )
 
   (module Diode_SMD:D_0603_1608Metric_Pad1.05x0.95mm_HandSolder (layer F.Cu) (tedit 5B4B45C8) (tstamp 5C0B5C8A)
-    (at 91.761251 171.242501)
+    (at 75.092501 314.117501)
     (descr "Diode SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "diode handsolder")
     (path /5BF46CC3)
@@ -2856,7 +2856,7 @@
   )
 
   (module Diode_SMD:D_0603_1608Metric_Pad1.05x0.95mm_HandSolder (layer F.Cu) (tedit 5B4B45C8) (tstamp 5C0B5C9D)
-    (at 88.371251 171.242501)
+    (at 71.702501 314.117501)
     (descr "Diode SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "diode handsolder")
     (path /5BF46E44)
@@ -2894,7 +2894,7 @@
   )
 
   (module Diode_SMD:D_0603_1608Metric_Pad1.05x0.95mm_HandSolder (layer F.Cu) (tedit 5B4B45C8) (tstamp 5C0B5CB0)
-    (at 64.641251 171.242501)
+    (at 47.972501 314.117501)
     (descr "Diode SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "diode handsolder")
     (path /5BF46FCE)
@@ -2932,7 +2932,7 @@
   )
 
   (module Diode_SMD:D_0603_1608Metric_Pad1.05x0.95mm_HandSolder (layer F.Cu) (tedit 5B4B45C8) (tstamp 5C0B5CC3)
-    (at 84.981251 171.242501)
+    (at 68.312501 314.117501)
     (descr "Diode SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "diode handsolder")
     (path /5BF466BE)
@@ -2970,7 +2970,7 @@
   )
 
   (module Diode_SMD:D_0603_1608Metric_Pad1.05x0.95mm_HandSolder (layer F.Cu) (tedit 5B4B45C8) (tstamp 5C0B5CD6)
-    (at 81.591251 171.242501)
+    (at 64.922501 314.117501)
     (descr "Diode SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "diode handsolder")
     (path /5BF46B22)
@@ -3008,7 +3008,7 @@
   )
 
   (module Diode_SMD:D_0603_1608Metric_Pad1.05x0.95mm_HandSolder (layer F.Cu) (tedit 5B4B45C8) (tstamp 5C0B5CE9)
-    (at 78.201251 171.242501)
+    (at 61.532501 314.117501)
     (descr "Diode SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "diode handsolder")
     (path /5BF46CF4)
@@ -3046,7 +3046,7 @@
   )
 
   (module Diode_SMD:D_0603_1608Metric_Pad1.05x0.95mm_HandSolder (layer F.Cu) (tedit 5B4B45C8) (tstamp 5C0B5CFC)
-    (at 74.811251 171.242501)
+    (at 58.142501 314.117501)
     (descr "Diode SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "diode handsolder")
     (path /5BF46E75)
@@ -3084,7 +3084,7 @@
   )
 
   (module Diode_SMD:D_0603_1608Metric_Pad1.05x0.95mm_HandSolder (layer F.Cu) (tedit 5B4B45C8) (tstamp 5C0B5D0F)
-    (at 71.421251 171.242501)
+    (at 54.752501 314.117501)
     (descr "Diode SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "diode handsolder")
     (path /5BF46FFF)
@@ -4247,8 +4247,8 @@
     (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
   )
 
-  (module MX_Alps_Hybrid:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 5C0C4B32)
-    (at 226.21875 38.1)
+  (module MX_Alps_Hybrid:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 5C0B603D)
+    (at 247.65 35.71875)
     (path /5BF20F9F)
     (fp_text reference SW38 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -4277,8 +4277,8 @@
     (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
   )
 
-  (module MX_Alps_Hybrid:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 5C0C4E56)
-    (at 216.69375 57.15)
+  (module MX_Alps_Hybrid:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 5C0B6052)
+    (at 252.4125 52.3875)
     (path /5BF1EFD0)
     (fp_text reference SW39 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -4307,8 +4307,8 @@
       (net 93 "Net-(SW38-Pad2)"))
   )
 
-  (module MX_Alps_Hybrid:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 5C0C4A42)
-    (at 221.45625 76.2)
+  (module MX_Alps_Hybrid:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 5C0B6067)
+    (at 247.65 66.675)
     (path /5BF1EFD7)
     (fp_text reference SW40 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -4337,8 +4337,8 @@
     (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
   )
 
-  (module MX_Alps_Hybrid:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 5C0C4ABA)
-    (at 230.98125 95.25)
+  (module MX_Alps_Hybrid:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 5C0B607C)
+    (at 250.03125 83.34375)
     (path /5BF1EFDE)
     (fp_text reference SW41 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -4367,8 +4367,8 @@
       (net 93 "Net-(SW38-Pad2)"))
   )
 
-  (module MX_Alps_Hybrid:MXOnly-2.25U-NoLED (layer F.Cu) (tedit 5BD3C6E1) (tstamp 5C0C4D5E)
-    (at 228.6 114.3)
+  (module MX_Alps_Hybrid:MXOnly-2.25U-NoLED (layer F.Cu) (tedit 5BD3C6E1) (tstamp 5C0B6095)
+    (at 257.175 102.39375)
     (path /5BF1EFE5)
     (fp_text reference SW42 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -4401,8 +4401,8 @@
     (pad "" np_thru_hole circle (at 11.90625 8.255) (size 3.9878 3.9878) (drill 3.9878) (layers *.Cu *.Mask))
   )
 
-  (module MX_Alps_Hybrid:MXOnly-3U-NoLED (layer F.Cu) (tedit 5BF229A9) (tstamp 5C0C4F4A)
-    (at 235.74375 114.3)
+  (module MX_Alps_Hybrid:MXOnly-3U-NoLED (layer F.Cu) (tedit 5BF229A9) (tstamp 5C0B60AE)
+    (at 266.7 126.20625)
     (path /5BF24684)
     (fp_text reference SW43 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -4435,8 +4435,8 @@
     (pad "" np_thru_hole circle (at 19.05 8.255) (size 3.9878 3.9878) (drill 3.9878) (layers *.Cu *.Mask))
   )
 
-  (module MX_Alps_Hybrid:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 5C0C4A7E)
-    (at 245.26875 38.1)
+  (module MX_Alps_Hybrid:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 5C0B60C3)
+    (at 300.0375 38.1)
     (path /5BF1F008)
     (fp_text reference SW44 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -4465,8 +4465,8 @@
     (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
   )
 
-  (module MX_Alps_Hybrid:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 5C0C4C22)
-    (at 235.74375 57.15)
+  (module MX_Alps_Hybrid:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 5C0B60D8)
+    (at 302.41875 59.53125)
     (path /5BF1EFEC)
     (fp_text reference SW45 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -4495,8 +4495,8 @@
       (net 94 "Net-(SW44-Pad2)"))
   )
 
-  (module MX_Alps_Hybrid:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 5C0C4FCA)
-    (at 240.50625 76.2)
+  (module MX_Alps_Hybrid:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 5C0B60ED)
+    (at 295.275 71.4375)
     (path /5BF1EFF3)
     (fp_text reference SW46 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -4525,8 +4525,8 @@
     (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
   )
 
-  (module MX_Alps_Hybrid:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 5C0C4DA2)
-    (at 250.03125 95.25)
+  (module MX_Alps_Hybrid:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 5C0B6102)
+    (at 304.8 85.725)
     (path /5BF1EFFA)
     (fp_text reference SW47 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -4555,8 +4555,8 @@
       (net 94 "Net-(SW44-Pad2)"))
   )
 
-  (module MX_Alps_Hybrid:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 5C0C4AF6)
-    (at 264.31875 38.1)
+  (module MX_Alps_Hybrid:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 5C0B6117)
+    (at 340.51875 33.3375)
     (path /5BF1F02B)
     (fp_text reference SW48 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -4585,8 +4585,8 @@
       (net 95 "Net-(SW48-Pad2)"))
   )
 
-  (module MX_Alps_Hybrid:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 5C0C4E1A)
-    (at 254.79375 57.15)
+  (module MX_Alps_Hybrid:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 5C0B612C)
+    (at 340.51875 54.76875)
     (path /5BF1F00F)
     (fp_text reference SW49 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -4615,8 +4615,8 @@
     (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
   )
 
-  (module MX_Alps_Hybrid:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 5C0C4F0A)
-    (at 259.55625 76.2)
+  (module MX_Alps_Hybrid:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 5C0B6141)
+    (at 340.51875 71.4375)
     (path /5BF1F016)
     (fp_text reference SW50 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -4645,8 +4645,8 @@
       (net 95 "Net-(SW48-Pad2)"))
   )
 
-  (module MX_Alps_Hybrid:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 5C0C4ECE)
-    (at 269.08125 95.25)
+  (module MX_Alps_Hybrid:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 5C0B6156)
+    (at 342.9 85.725)
     (path /5BF1F01D)
     (fp_text reference SW51 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -4675,8 +4675,8 @@
       (net 95 "Net-(SW48-Pad2)"))
   )
 
-  (module MX_Alps_Hybrid:MXOnly-1.25U-NoLED (layer F.Cu) (tedit 5BD3C68C) (tstamp 5C0C4A06)
-    (at 261.9375 114.3)
+  (module MX_Alps_Hybrid:MXOnly-1.25U-NoLED (layer F.Cu) (tedit 5BD3C68C) (tstamp 5C0B616B)
+    (at 342.9 111.91875)
     (path /5BF1F024)
     (fp_text reference SW52 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -4705,8 +4705,8 @@
       (net 95 "Net-(SW48-Pad2)"))
   )
 
-  (module MX_Alps_Hybrid:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 5C0C4E92)
-    (at 283.36875 38.1)
+  (module MX_Alps_Hybrid:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 5C0B6180)
+    (at 390.525 38.1)
     (path /5BF1F04E)
     (fp_text reference SW53 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -4735,8 +4735,8 @@
     (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
   )
 
-  (module MX_Alps_Hybrid:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 5C0C4DDE)
-    (at 273.84375 57.15)
+  (module MX_Alps_Hybrid:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 5C0B6195)
+    (at 390.525 59.53125)
     (path /5BF1F032)
     (fp_text reference SW54 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -4765,8 +4765,8 @@
     (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
   )
 
-  (module MX_Alps_Hybrid:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 5C0C49CA)
-    (at 278.60625 76.2)
+  (module MX_Alps_Hybrid:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 5C0B61AA)
+    (at 385.7625 83.34375)
     (path /5BF1F039)
     (fp_text reference SW55 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -4795,8 +4795,8 @@
       (net 96 "Net-(SW53-Pad2)"))
   )
 
-  (module MX_Alps_Hybrid:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 5C0C4BE6)
-    (at 288.13125 95.25)
+  (module MX_Alps_Hybrid:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 5C0B61BF)
+    (at 388.14375 97.63125)
     (path /5BF1F040)
     (fp_text reference SW56 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -4825,8 +4825,8 @@
     (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
   )
 
-  (module MX_Alps_Hybrid:MXOnly-1.25U-NoLED (layer F.Cu) (tedit 5BD3C68C) (tstamp 5C0C4D1E)
-    (at 285.75 114.3)
+  (module MX_Alps_Hybrid:MXOnly-1.25U-NoLED (layer F.Cu) (tedit 5BD3C68C) (tstamp 5C0B61D4)
+    (at 383.38125 114.3)
     (path /5BF1F047)
     (fp_text reference SW57 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -4855,8 +4855,8 @@
     (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
   )
 
-  (module MX_Alps_Hybrid:MXOnly-1.5U-NoLED (layer F.Cu) (tedit 5BD3C5FF) (tstamp 5C0C4C5E)
-    (at 278.60625 114.3)
+  (module MX_Alps_Hybrid:MXOnly-1.5U-NoLED (layer F.Cu) (tedit 5BD3C5FF) (tstamp 5C0B61E9)
+    (at 383.38125 130.96875)
     (path /5BF24969)
     (fp_text reference SW58 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -4885,8 +4885,8 @@
     (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
   )
 
-  (module MX_Alps_Hybrid:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 5C0C4B6E)
-    (at 302.41875 38.1)
+  (module MX_Alps_Hybrid:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 5C0B61FE)
+    (at 423.8625 35.71875)
     (path /5BF1F071)
     (fp_text reference SW59 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -4915,8 +4915,8 @@
       (net 97 "Net-(SW59-Pad2)"))
   )
 
-  (module MX_Alps_Hybrid:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 5C0C4BAA)
-    (at 292.89375 57.15)
+  (module MX_Alps_Hybrid:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 5C0B6213)
+    (at 428.625 50.00625)
     (path /5BF1F055)
     (fp_text reference SW60 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -4945,8 +4945,8 @@
     (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
   )
 
-  (module MX_Alps_Hybrid:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 5C0C4CE2)
-    (at 297.65625 76.2)
+  (module MX_Alps_Hybrid:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 5C0B6228)
+    (at 431.00625 73.81875)
     (path /5BF1F05C)
     (fp_text reference SW61 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -4975,8 +4975,8 @@
       (net 97 "Net-(SW59-Pad2)"))
   )
 
-  (module MX_Alps_Hybrid:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 5C0C4F8E)
-    (at 307.18125 95.25)
+  (module MX_Alps_Hybrid:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 5C0B623D)
+    (at 428.625 88.10625)
     (path /5BF1F063)
     (fp_text reference SW62 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -5005,8 +5005,8 @@
     (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
   )
 
-  (module MX_Alps_Hybrid:MXOnly-1.25U-NoLED (layer F.Cu) (tedit 5BD3C68C) (tstamp 5C0C498E)
-    (at 309.5625 114.3)
+  (module MX_Alps_Hybrid:MXOnly-1.25U-NoLED (layer F.Cu) (tedit 5BD3C68C) (tstamp 5C0B6252)
+    (at 426.24375 109.5375)
     (path /5BF1F06A)
     (fp_text reference SW63 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -5035,8 +5035,8 @@
       (net 97 "Net-(SW59-Pad2)"))
   )
 
-  (module MX_Alps_Hybrid:MXOnly-1.5U-NoLED (layer F.Cu) (tedit 5BD3C5FF) (tstamp 5C0C48DA)
-    (at 307.18125 114.3)
+  (module MX_Alps_Hybrid:MXOnly-1.5U-NoLED (layer F.Cu) (tedit 5BD3C5FF) (tstamp 5C0B6267)
+    (at 421.48125 126.20625)
     (path /5BF2481D)
     (fp_text reference SW64 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -5065,8 +5065,8 @@
       (net 97 "Net-(SW59-Pad2)"))
   )
 
-  (module MX_Alps_Hybrid:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 5C0C4952)
-    (at 321.46875 38.1)
+  (module MX_Alps_Hybrid:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 5C0B627C)
+    (at 459.58125 28.575)
     (path /5BF1F08D)
     (fp_text reference SW65 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -5095,8 +5095,8 @@
     (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
   )
 
-  (module MX_Alps_Hybrid:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 5C0C4916)
-    (at 311.94375 57.15)
+  (module MX_Alps_Hybrid:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 5C0B6291)
+    (at 469.10625 47.625)
     (path /5BF1F078)
     (fp_text reference SW66 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -5125,8 +5125,8 @@
     (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
   )
 
-  (module MX_Alps_Hybrid:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 5C0C489E)
-    (at 316.70625 76.2)
+  (module MX_Alps_Hybrid:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 5C0B62A6)
+    (at 466.725 73.81875)
     (path /5BF1F07F)
     (fp_text reference SW67 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -5155,8 +5155,8 @@
       (net 98 "Net-(SW65-Pad2)"))
   )
 
-  (module MX_Alps_Hybrid:MXOnly-1.75U-NoLED (layer F.Cu) (tedit 5BD3C6A7) (tstamp 5C0C4862)
-    (at 333.375 95.25)
+  (module MX_Alps_Hybrid:MXOnly-1.75U-NoLED (layer F.Cu) (tedit 5BD3C6A7) (tstamp 5C0B62BB)
+    (at 102.616251 206.442501)
     (path /5BF1F086)
     (fp_text reference SW68 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -5185,8 +5185,8 @@
     (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
   )
 
-  (module MX_Alps_Hybrid:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 5C0C4826)
-    (at 340.51875 114.3)
+  (module MX_Alps_Hybrid:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 5C0B62D0)
+    (at 263.352501 224.362501)
     (path /5BF25D80)
     (fp_text reference SW69 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -5215,8 +5215,8 @@
       (net 98 "Net-(SW65-Pad2)"))
   )
 
-  (module MX_Alps_Hybrid:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 5C0C47EA)
-    (at 340.51875 38.1)
+  (module MX_Alps_Hybrid:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 5C0B62E5)
+    (at 277.632501 205.162501)
     (path /5BF255C8)
     (fp_text reference SW70 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -5245,8 +5245,8 @@
     (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
   )
 
-  (module MX_Alps_Hybrid:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 5C0C47AE)
-    (at 330.99375 57.15)
+  (module MX_Alps_Hybrid:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 5C0B62FA)
+    (at 296.692501 185.962501)
     (path /5BF255B3)
     (fp_text reference SW71 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -5275,8 +5275,8 @@
       (net 99 "Net-(SW70-Pad2)"))
   )
 
-  (module MX_Alps_Hybrid:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 5C0C4772)
-    (at 359.56875 38.1)
+  (module MX_Alps_Hybrid:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 5C0B630F)
+    (at 224.952501 224.362501)
     (path /5BF1F094)
     (fp_text reference SW72 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -5305,8 +5305,8 @@
       (net 100 "Net-(SW72-Pad2)"))
   )
 
-  (module MX_Alps_Hybrid:MXOnly-2U-NoLED (layer F.Cu) (tedit 5BD3C72F) (tstamp 5C0C472E)
-    (at 350.04375 38.1)
+  (module MX_Alps_Hybrid:MXOnly-2U-NoLED (layer F.Cu) (tedit 5BD3C72F) (tstamp 5C0B6328)
+    (at 171.817501 166.762501)
     (path /5BF250E1)
     (fp_text reference SW73 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -5339,8 +5339,8 @@
     (pad "" np_thru_hole circle (at 11.90625 8.255) (size 3.9878 3.9878) (drill 3.9878) (layers *.Cu *.Mask))
   )
 
-  (module MX_Alps_Hybrid:MXOnly-1.5U-NoLED (layer F.Cu) (tedit 5BD3C5FF) (tstamp 5C0C46EE)
-    (at 354.80625 57.15)
+  (module MX_Alps_Hybrid:MXOnly-1.5U-NoLED (layer F.Cu) (tedit 5BD3C5FF) (tstamp 5C0B633D)
+    (at 85.945001 265.322501)
     (path /5BF1F0A9)
     (fp_text reference SW74 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -5369,8 +5369,8 @@
     (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
   )
 
-  (module MX_Alps_Hybrid:MXOnly-2.25U-NoLED (layer F.Cu) (tedit 5BD3C6E1) (tstamp 5C0C4C9E)
-    (at 347.6625 76.2)
+  (module MX_Alps_Hybrid:MXOnly-2.25U-NoLED (layer F.Cu) (tedit 5BD3C6E1) (tstamp 5C0B6356)
+    (at 121.668751 186.602501)
     (path /5BF1F0A2)
     (fp_text reference SW75 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -5403,8 +5403,8 @@
     (pad "" np_thru_hole circle (at 11.90625 8.255) (size 3.9878 3.9878) (drill 3.9878) (layers *.Cu *.Mask))
   )
 
-  (module MX_Alps_Hybrid:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 5C0C46B2)
-    (at 359.56875 95.25)
+  (module MX_Alps_Hybrid:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 5C0B636B)
+    (at 95.622501 303.722501)
     (path /5BF1F09B)
     (fp_text reference SW76 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -5433,8 +5433,8 @@
       (net 100 "Net-(SW72-Pad2)"))
   )
 
-  (module MX_Alps_Hybrid:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 5C0C4676)
-    (at 359.56875 114.3)
+  (module MX_Alps_Hybrid:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 5C0B6380)
+    (at 129.102501 264.042501)
     (path /5BF1F0B0)
     (fp_text reference SW77 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -5463,8 +5463,8 @@
     (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
   )
 
-  (module MX_Alps_Hybrid:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 5C0C463A)
-    (at 378.61875 38.1)
+  (module MX_Alps_Hybrid:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 5C0B6395)
+    (at 167.352501 225.002501)
     (path /5BF20EA4)
     (fp_text reference SW78 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -5493,8 +5493,8 @@
       (net 101 "Net-(SW78-Pad2)"))
   )
 
-  (module MX_Alps_Hybrid:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 5C0C45FE)
-    (at 378.61875 57.15)
+  (module MX_Alps_Hybrid:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 5C0B63AA)
+    (at 200.692501 185.962501)
     (path /5BF20EB9)
     (fp_text reference SW79 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -5523,8 +5523,8 @@
     (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
   )
 
-  (module MX_Alps_Hybrid:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 5C0C4586)
-    (at 378.61875 76.2)
+  (module MX_Alps_Hybrid:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 5C0B63BF)
+    (at 224.502501 166.762501)
     (path /5BF20EB2)
     (fp_text reference SW80 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -5553,8 +5553,8 @@
       (net 101 "Net-(SW78-Pad2)"))
   )
 
-  (module MX_Alps_Hybrid:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 5C0C454A)
-    (at 378.61875 95.25)
+  (module MX_Alps_Hybrid:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 5C0B63D4)
+    (at 100.382501 284.522501)
     (path /5BF20EAB)
     (fp_text reference SW81 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -5583,8 +5583,8 @@
     (pad "" np_thru_hole circle (at 5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask))
   )
 
-  (module MX_Alps_Hybrid:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 5C0C45C2)
-    (at 378.61875 114.3)
+  (module MX_Alps_Hybrid:MXOnly-1U-NoLED (layer F.Cu) (tedit 5BD3C6C7) (tstamp 5C0B63E9)
+    (at 148.152501 225.642501)
     (path /5BF20EC0)
     (fp_text reference SW82 (at 0 3.175) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
