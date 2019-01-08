@@ -1,4 +1,5 @@
 EESchema Schematic File Version 4
+LIBS:split_65-cache
 EELAYER 26 0
 EELAYER END
 $Descr A2 23386 16535
@@ -4900,37 +4901,7 @@ Wire Notes Line
 Wire Notes Line
 	5650 6400 9175 6400
 Wire Notes Line
-	9175 12825 9175 15275
-Wire Notes Line
 	5650 13975 9175 13975
-Text Notes 7775 12925 0    50   ~ 0
-Passthrough Holes\n
-Text Notes 7775 5350 0    50   ~ 0
-Passthrough Holes
-$Comp
-L Connector_Generic:Conn_01x01 MH1
-U 1 1 5C5F2D6B
-P 8150 5600
-F 0 "MH1" H 8229 5642 50  0000 L CNN
-F 1 "HOLE" H 8229 5551 50  0000 L CNN
-F 2 "MountingHole:MountingHole_5mm" H 8150 5600 50  0001 C CNN
-F 3 "~" H 8150 5600 50  0001 C CNN
-	1    8150 5600
-	1    0    0    -1  
-$EndComp
-NoConn ~ 7950 5600
-$Comp
-L Connector_Generic:Conn_01x01 MH2
-U 1 1 5C7F1ECF
-P 8175 13150
-F 0 "MH2" H 8254 13192 50  0000 L CNN
-F 1 "HOLE" H 8254 13101 50  0000 L CNN
-F 2 "MountingHole:MountingHole_5mm" H 8175 13150 50  0001 C CNN
-F 3 "~" H 8175 13150 50  0001 C CNN
-	1    8175 13150
-	1    0    0    -1  
-$EndComp
-NoConn ~ 7975 13150
 Text Notes 7775 6500 0    50   ~ 0
 Half Detection
 Text GLabel 8250 6875 0    50   Input ~ 0
@@ -5360,18 +5331,7 @@ Wire Wire Line
 	9325 4225 9550 4225
 Connection ~ 9550 4225
 Wire Wire Line
-	10125 4025 10425 4025
-Wire Wire Line
 	9775 4075 9775 4925
-Connection ~ 10425 4025
-Wire Wire Line
-	10075 4075 10375 4075
-Wire Wire Line
-	9975 4175 10275 4175
-Connection ~ 10275 4175
-Wire Wire Line
-	9925 4225 10150 4225
-Connection ~ 10150 4225
 Wire Wire Line
 	9375 4175 9675 4175
 Wire Wire Line
@@ -5866,12 +5826,12 @@ $EndComp
 $Comp
 L MX_Alps_Hybrids:MX-1U MX33
 U 1 1 5CCB75DC
-P 9950 4050
-F 0 "MX33" H 10036 4267 60  0000 C CNN
-F 1 "MXOnly-1U" H 10036 4193 20  0000 C CNN
-F 2 "MX_Alps_Hybrid:MXOnly-1.5U" H 9925 4025 60  0001 C CNN
-F 3 "" H 9925 4025 60  0001 C CNN
-	1    9950 4050
+P 10550 4050
+F 0 "MX33" H 10636 4267 60  0000 C CNN
+F 1 "MXOnly-1U" H 10636 4193 20  0000 C CNN
+F 2 "MX_Alps_Hybrid:MXOnly-1.5U" H 10525 4025 60  0001 C CNN
+F 3 "" H 10525 4025 60  0001 C CNN
+	1    10550 4050
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
@@ -6034,4 +5994,17 @@ Connection ~ 3600 8625
 Wire Wire Line
 	3400 12225 3500 12225
 Connection ~ 3400 12225
+Wire Notes Line
+	9175 12825 9175 15275
+Wire Wire Line
+	10725 4025 11025 4025
+Connection ~ 11025 4025
+Wire Wire Line
+	10675 4075 10975 4075
+Wire Wire Line
+	10575 4175 10875 4175
+Connection ~ 10875 4175
+Wire Wire Line
+	10525 4225 10750 4225
+Connection ~ 10750 4225
 $EndSCHEMATC
