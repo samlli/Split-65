@@ -4162,25 +4162,12 @@ Wire Wire Line
 	12150 11750 12075 11750
 Text Notes 7775 8350 0    50   ~ 0
 Switch Matrix\n
-Connection ~ 9225 9000
-Wire Wire Line
-	9225 9000 9225 8675
-Connection ~ 9225 9650
-Wire Wire Line
-	9225 9650 9225 9000
 Connection ~ 9225 10300
-Wire Wire Line
-	9225 10300 9225 9650
 Wire Wire Line
 	9225 10950 9225 10300
 Text GLabel 9225 8675 1    50   Input ~ 0
 COL0-R
-Connection ~ 9825 9000
-Wire Wire Line
-	9825 9000 9825 8675
 Connection ~ 9825 9650
-Wire Wire Line
-	9825 9650 9825 9000
 Connection ~ 9825 10300
 Wire Wire Line
 	9825 10300 9825 9650
@@ -4413,11 +4400,6 @@ Wire Wire Line
 	12150 11300 11550 11300
 Text GLabel 14550 11950 3    50   Input ~ 0
 LEDGND-R
-Wire Wire Line
-	9175 9050 9175 9700
-Connection ~ 9175 9700
-Wire Wire Line
-	9175 9700 9175 10350
 Connection ~ 9175 10350
 Wire Wire Line
 	9175 10350 9175 11000
@@ -4439,9 +4421,6 @@ Connection ~ 10375 10350
 Wire Wire Line
 	10375 10350 10375 11000
 Connection ~ 10375 11000
-Wire Wire Line
-	10375 12500 10975 12500
-Connection ~ 10375 12500
 Connection ~ 10975 9700
 Wire Wire Line
 	10975 9700 10975 9050
@@ -4453,8 +4432,6 @@ Wire Wire Line
 	10975 11000 10975 10350
 Wire Wire Line
 	11575 9050 11575 9700
-Wire Wire Line
-	11575 12500 10975 12500
 Connection ~ 11575 9700
 Wire Wire Line
 	11575 9700 11575 10350
@@ -4462,10 +4439,6 @@ Connection ~ 11575 10350
 Wire Wire Line
 	11575 10350 11575 11000
 Connection ~ 11575 11000
-Connection ~ 10975 12500
-Wire Wire Line
-	11575 12500 12175 12500
-Connection ~ 11575 12500
 Connection ~ 12175 9700
 Wire Wire Line
 	12175 9700 12175 9050
@@ -4477,13 +4450,7 @@ Wire Wire Line
 	12175 11000 12175 10350
 Wire Wire Line
 	12775 9050 12775 9700
-Wire Wire Line
-	12775 12500 12175 12500
 Connection ~ 12775 9700
-Connection ~ 12175 12500
-Wire Wire Line
-	9000 12500 9175 12500
-Connection ~ 9175 12500
 Wire Wire Line
 	9175 11000 9175 11650
 Wire Wire Line
@@ -5499,11 +5466,6 @@ F 3 "~" H 13350 11850 50  0001 C CNN
 	1    13350 11850
 	-1   0    0    1   
 $EndComp
-Wire Wire Line
-	10375 12500 9775 12500
-Wire Wire Line
-	9175 12500 9775 12500
-Connection ~ 9775 12500
 Connection ~ 9775 11000
 Wire Wire Line
 	9775 11000 9775 12500
@@ -5732,17 +5694,11 @@ Wire Wire Line
 	13875 9800 13950 9800
 Wire Wire Line
 	13125 9000 13425 9000
-Wire Wire Line
-	13375 12500 12775 12500
 Connection ~ 13375 10350
 Wire Wire Line
 	13375 10350 13375 11000
 Connection ~ 13375 11000
-Connection ~ 12775 12500
-Wire Wire Line
-	13975 12500 13375 12500
 Connection ~ 13975 10350
-Connection ~ 13375 12500
 Text GLabel 13425 8675 1    50   Input ~ 0
 COL7-R
 Text GLabel 14025 8675 1    50   Input ~ 0
@@ -5779,28 +5735,17 @@ Wire Wire Line
 Wire Wire Line
 	13950 11950 14550 11950
 Wire Wire Line
-	14550 11950 14550 11300
-Wire Wire Line
 	14550 9350 13950 9350
 Connection ~ 13950 9350
 Wire Wire Line
 	13950 10000 14550 10000
 Connection ~ 13950 10000
-Connection ~ 14550 10000
-Wire Wire Line
-	14550 10000 14550 9350
 Wire Wire Line
 	13950 10650 14550 10650
 Connection ~ 13950 10650
-Connection ~ 14550 10650
-Wire Wire Line
-	14550 10650 14550 10000
 Wire Wire Line
 	13950 11300 14550 11300
 Connection ~ 13950 11300
-Connection ~ 14550 11300
-Wire Wire Line
-	14550 11300 14550 10650
 $Comp
 L MX_Alps_Hybrids:MX-1U MX16
 U 1 1 5CCB4AFE
@@ -6007,4 +5952,59 @@ Connection ~ 10875 4175
 Wire Wire Line
 	10525 4225 10750 4225
 Connection ~ 10750 4225
+Connection ~ 14550 11300
+Connection ~ 14550 10650
+Wire Wire Line
+	14550 10650 14550 10000
+Wire Wire Line
+	14550 10000 14550 9350
+Connection ~ 14550 10000
+Wire Wire Line
+	14550 11300 14550 10650
+Wire Wire Line
+	14550 11950 14550 11300
+Connection ~ 13375 12500
+Connection ~ 12775 12500
+Wire Wire Line
+	13975 12500 13375 12500
+Wire Wire Line
+	13375 12500 12775 12500
+Connection ~ 9775 12500
+Wire Wire Line
+	10375 12500 9775 12500
+Connection ~ 9175 12500
+Wire Wire Line
+	9175 12500 9775 12500
+Wire Wire Line
+	9000 12500 9175 12500
+Connection ~ 12175 12500
+Connection ~ 11575 12500
+Wire Wire Line
+	12775 12500 12175 12500
+Wire Wire Line
+	11575 12500 12175 12500
+Connection ~ 10975 12500
+Connection ~ 10375 12500
+Wire Wire Line
+	11575 12500 10975 12500
+Wire Wire Line
+	10375 12500 10975 12500
+Connection ~ 9175 9700
+Wire Wire Line
+	9175 9700 9175 10350
+Wire Wire Line
+	9175 9050 9175 9700
+Wire Wire Line
+	9225 10300 9225 9650
+Connection ~ 9225 9650
+Wire Wire Line
+	9825 9650 9825 9000
+Wire Wire Line
+	9825 9000 9825 8675
+Connection ~ 9825 9000
+Connection ~ 9225 9000
+Wire Wire Line
+	9225 9000 9225 8675
+Wire Wire Line
+	9225 9650 9225 9000
 $EndSCHEMATC
