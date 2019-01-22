@@ -1,4 +1,4 @@
-(module HRO-TYPE-C-31-M-12-Assembly (layer F.Cu) (tedit 5B968BF6)
+(module HRO-TYPE-C-31-M-12-Assembly (layer F.Cu) (tedit 5C4493C2)
   (fp_text reference REF** (at 0 -9.25) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -37,4 +37,9 @@
   (pad 11 smd rect (at 2.45 -7.695) (size 0.6 1.45) (layers F.Cu F.Paste F.Mask))
   (pad 1 smd rect (at -3.225 -7.695) (size 0.6 1.45) (layers F.Cu F.Paste F.Mask))
   (pad 12 smd rect (at 3.225 -7.695) (size 0.6 1.45) (layers F.Cu F.Paste F.Mask))
+  (model "${KIPRJMOD}/Type-C.pretty/HRO  TYPE-C-31-M-12.step"
+    (offset (xyz -4.47 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 90 180 180))
+  )
 )
