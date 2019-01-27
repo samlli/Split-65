@@ -2,4 +2,5 @@
   (lib (name locallib)(type KiCad)(uri ${KIPRJMOD}/locallib.pretty)(options "")(descr ""))
   (lib (name Molex-0548190589)(type KiCad)(uri ${KIPRJMOD}/Molex-0548190589.pretty)(options "")(descr ""))
   (lib (name Type-C)(type KiCad)(uri ${KIPRJMOD}/Type-C.pretty)(options "")(descr ""))
+  (lib (name WS2812B)(type KiCad)(uri ${KIPRJMOD}/WS2812B.pretty-master)(options "")(descr ""))
 )
