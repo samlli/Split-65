@@ -1,4 +1,4 @@
-(module SKQGADE010 (layer F.Cu) (tedit 5B954366)
+(module SKQGADE010 (layer F.Cu) (tedit 5C4E6223)
   (fp_text reference REF** (at 0 4.064) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -31,4 +31,9 @@
   (pad 2 smd rect (at -3.1 -1.85) (size 1.8 1.1) (layers F.Cu F.Paste F.Mask))
   (pad 3 smd rect (at 3.1 -1.85) (size 1.8 1.1) (layers F.Cu F.Paste F.Mask))
   (pad 4 smd rect (at -3.1 1.85) (size 1.8 1.1) (layers F.Cu F.Paste F.Mask))
+  (model ${KIPRJMOD}/locallib.pretty/SKQGAD.STEP
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 90 180 0))
+  )
 )
