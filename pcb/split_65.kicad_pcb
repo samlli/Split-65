@@ -41,7 +41,7 @@
   )
 
   (setup
-    (last_trace_width 0.55)
+    (last_trace_width 0.254)
     (user_trace_width 0.254)
     (user_trace_width 0.381)
     (user_trace_width 0.55)
@@ -878,9 +878,9 @@
     (fp_line (start 0.8 0.4) (end 0.8 -0.4) (layer B.Fab) (width 0.1))
     (fp_line (start -0.8 0.4) (end 0.8 0.4) (layer B.Fab) (width 0.1))
     (fp_line (start -0.8 -0.4) (end -0.8 0.4) (layer B.Fab) (width 0.1))
-    (pad 2 smd roundrect (at 0.7875 0 45) (size 0.875 0.95) (layers B.Cu B.Paste B.Mask) (roundrect_rratio 0.25)
+    (pad 2 smd roundrect (at 0.787501 0 45) (size 0.875 0.95) (layers B.Cu B.Paste B.Mask) (roundrect_rratio 0.25)
       (net 1 GND))
-    (pad 1 smd roundrect (at -0.7875 0 45) (size 0.875 0.95) (layers B.Cu B.Paste B.Mask) (roundrect_rratio 0.25)
+    (pad 1 smd roundrect (at -0.787501 0 45) (size 0.875 0.95) (layers B.Cu B.Paste B.Mask) (roundrect_rratio 0.25)
       (net 2 "Net-(C1-Pad1)"))
     (model ${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl
       (at (xyz 0 0 0))
@@ -13771,7 +13771,7 @@
     (fill yes (arc_segments 16) (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
-        (xy 63.10339 123.82552) (xy 63.10339 114.30048) (xy 52.38772 114.30048) (xy 52.38772 123.82552)
+        (xy 63.10339 123.82552) (xy 63.10339 114.30048) (xy 53.57835 114.30048) (xy 53.57835 123.82552)
       )
     )
     (filled_polygon

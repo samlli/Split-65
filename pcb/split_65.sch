@@ -1283,8 +1283,6 @@ F 3 "~" H 9750 2975 50  0001 C CNN
 	1    9750 2975
 	-1   0    0    1   
 $EndComp
-Wire Wire Line
-	9750 2875 9675 2875
 $Comp
 L MX_Alps_Hybrids:MX-1U MX18
 U 1 1 5B932E16
@@ -2180,10 +2178,6 @@ Connection ~ 9175 2775
 Wire Wire Line
 	9175 2775 9175 3425
 Connection ~ 9175 3425
-Connection ~ 9775 2775
-Connection ~ 9775 3425
-Wire Wire Line
-	9775 3425 9775 2775
 Connection ~ 9775 4075
 Wire Wire Line
 	9775 4075 9775 3425
@@ -4979,11 +4973,6 @@ $EndComp
 Wire Wire Line
 	9525 2725 9825 2725
 Wire Wire Line
-	9475 2775 9775 2775
-Wire Wire Line
-	9375 2875 9675 2875
-Connection ~ 9675 2875
-Wire Wire Line
 	9325 2925 9550 2925
 Connection ~ 9550 2925
 Connection ~ 9175 4075
@@ -5593,9 +5582,6 @@ Text GLabel 4175 10425 2    50   Input ~ 0
 COL7-R
 Text GLabel 4175 10325 2    50   Input ~ 0
 COL8-R
-Wire Wire Line
-	9775 2775 9775 2125
-Connection ~ 9775 2125
 Wire Wire Line
 	9825 2725 9825 2075
 Connection ~ 9825 2075
@@ -6684,4 +6670,30 @@ F 3 "~" H 16950 9075 50  0001 C CNN
 	1    16950 9075
 	-1   0    0    1   
 $EndComp
+Wire Wire Line
+	9375 2875 9675 2875
+Connection ~ 9675 2875
+Wire Wire Line
+	9750 2875 9675 2875
+Wire Wire Line
+	9475 2775 9775 2775
+Text GLabel 9900 2775 2    50   Input ~ 0
+CAPSLOCK
+Wire Wire Line
+	9775 2775 9900 2775
+Connection ~ 9775 2775
+Wire Wire Line
+	9775 2125 9775 2650
+Wire Wire Line
+	9775 2650 9875 2650
+Wire Wire Line
+	9875 2650 9875 2825
+Wire Wire Line
+	9875 2825 9775 2825
+Wire Wire Line
+	9775 2825 9775 3425
+Connection ~ 9775 2125
+Connection ~ 9775 3425
+Text GLabel 4175 1850 2    50   Input ~ 0
+CAPSLOCK
 $EndSCHEMATC

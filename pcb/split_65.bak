@@ -1283,8 +1283,6 @@ F 3 "~" H 9750 2975 50  0001 C CNN
 	1    9750 2975
 	-1   0    0    1   
 $EndComp
-Wire Wire Line
-	9750 2875 9675 2875
 $Comp
 L MX_Alps_Hybrids:MX-1U MX18
 U 1 1 5B932E16
@@ -2180,10 +2178,6 @@ Connection ~ 9175 2775
 Wire Wire Line
 	9175 2775 9175 3425
 Connection ~ 9175 3425
-Connection ~ 9775 2775
-Connection ~ 9775 3425
-Wire Wire Line
-	9775 3425 9775 2775
 Connection ~ 9775 4075
 Wire Wire Line
 	9775 4075 9775 3425
@@ -4979,11 +4973,6 @@ $EndComp
 Wire Wire Line
 	9525 2725 9825 2725
 Wire Wire Line
-	9475 2775 9775 2775
-Wire Wire Line
-	9375 2875 9675 2875
-Connection ~ 9675 2875
-Wire Wire Line
 	9325 2925 9550 2925
 Connection ~ 9550 2925
 Connection ~ 9175 4075
@@ -5594,9 +5583,6 @@ COL7-R
 Text GLabel 4175 10325 2    50   Input ~ 0
 COL8-R
 Wire Wire Line
-	9775 2775 9775 2125
-Connection ~ 9775 2125
-Wire Wire Line
 	9825 2725 9825 2075
 Connection ~ 9825 2075
 $Comp
@@ -5902,7 +5888,7 @@ F 3 "" V 17375 4225 60  0000 C CNN
 $EndComp
 Text GLabel 4175 1950 2    50   Input ~ 0
 RGBLED
-Text GLabel 16200 1400 2    50   Input ~ 0
+Text GLabel 16200 1200 2    50   Input ~ 0
 RGBLED
 Wire Wire Line
 	15200 1800 15200 2025
@@ -6311,7 +6297,7 @@ F 3 "" V 18125 12000 60  0000 C CNN
 	1    18175 12000
 	1    0    0    -1  
 $EndComp
-Text GLabel 16950 9175 2    50   Input ~ 0
+Text GLabel 16950 8975 2    50   Input ~ 0
 RGBLED-R
 Wire Wire Line
 	15950 9575 15950 9800
@@ -6662,4 +6648,50 @@ Wire Wire Line
 Connection ~ 2625 8925
 Wire Wire Line
 	2625 8925 2900 8925
+$Comp
+L Device:R_Small R91
+U 1 1 5C5D693C
+P 16200 1300
+F 0 "R91" H 16141 1254 50  0000 R CNN
+F 1 "470" H 16141 1345 50  0000 R CNN
+F 2 "Resistor_SMD:R_0805_2012Metric" H 16200 1300 50  0001 C CNN
+F 3 "~" H 16200 1300 50  0001 C CNN
+	1    16200 1300
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:R_Small R92
+U 1 1 5C5DA35E
+P 16950 9075
+F 0 "R92" H 16891 9029 50  0000 R CNN
+F 1 "470" H 16891 9120 50  0000 R CNN
+F 2 "Resistor_SMD:R_0805_2012Metric" H 16950 9075 50  0001 C CNN
+F 3 "~" H 16950 9075 50  0001 C CNN
+	1    16950 9075
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	9375 2875 9675 2875
+Connection ~ 9675 2875
+Wire Wire Line
+	9750 2875 9675 2875
+Wire Wire Line
+	9475 2775 9775 2775
+Text GLabel 9900 2775 2    50   Input ~ 0
+CAPSLOCK
+Wire Wire Line
+	9775 2775 9900 2775
+Connection ~ 9775 2775
+Wire Wire Line
+	9775 2125 9775 2650
+Wire Wire Line
+	9775 2650 9875 2650
+Wire Wire Line
+	9875 2650 9875 2825
+Wire Wire Line
+	9875 2825 9775 2825
+Wire Wire Line
+	9775 2825 9775 3425
+Connection ~ 9775 2125
+Connection ~ 9775 3425
 $EndSCHEMATC
