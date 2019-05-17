@@ -1605,15 +1605,15 @@ $EndComp
 $Comp
 L Connector_Generic:Conn_01x01 J8
 U 1 1 5BC3C176
-P 6975 7175
-F 0 "J8" H 7054 7217 50  0000 L CNN
-F 1 "Breakaway_Tabs" H 7054 7126 50  0000 L CNN
-F 2 "locallib:breakaway-mousebites" H 6975 7175 50  0001 C CNN
-F 3 "~" H 6975 7175 50  0001 C CNN
-	1    6975 7175
+P 6025 14900
+F 0 "J8" H 6104 14942 50  0000 L CNN
+F 1 "Breakaway_Tabs" H 6104 14851 50  0000 L CNN
+F 2 "locallib:breakaway-mousebites" H 6025 14900 50  0001 C CNN
+F 3 "~" H 6025 14900 50  0001 C CNN
+	1    6025 14900
 	1    0    0    -1  
 $EndComp
-NoConn ~ 6775 7175
+NoConn ~ 5825 14900
 NoConn ~ 6775 7000
 Wire Wire Line
 	3400 12275 3400 12225
@@ -3021,18 +3021,6 @@ F 3 "~" H 6000 14575 50  0001 C CNN
 	1    6000 14575
 	1    0    0    -1  
 $EndComp
-$Comp
-L Connector_Generic:Conn_01x01 J15
-U 1 1 5BCD1D50
-P 6000 14750
-F 0 "J15" H 6079 14792 50  0000 L CNN
-F 1 "Breakaway_Tabs" H 6079 14701 50  0000 L CNN
-F 2 "locallib:breakaway-mousebites" H 6000 14750 50  0001 C CNN
-F 3 "~" H 6000 14750 50  0001 C CNN
-	1    6000 14750
-	1    0    0    -1  
-$EndComp
-NoConn ~ 5800 14750
 NoConn ~ 5800 14575
 $Comp
 L Connector_Generic:Conn_01x01 J12
@@ -3057,18 +3045,6 @@ F 3 "~" H 6975 14575 50  0001 C CNN
 	1    6975 14575
 	1    0    0    -1  
 $EndComp
-$Comp
-L Connector_Generic:Conn_01x01 J16
-U 1 1 5BCD1D70
-P 6975 14750
-F 0 "J16" H 7054 14792 50  0000 L CNN
-F 1 "Breakaway_Tabs" H 7054 14701 50  0000 L CNN
-F 2 "locallib:breakaway-mousebites" H 6975 14750 50  0001 C CNN
-F 3 "~" H 6975 14750 50  0001 C CNN
-	1    6975 14750
-	1    0    0    -1  
-$EndComp
-NoConn ~ 6775 14750
 NoConn ~ 6775 14575
 Text Notes 13050 7650 0    50   ~ 10
 LEFT HAND SCHEMATIC

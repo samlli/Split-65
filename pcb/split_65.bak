@@ -2986,9 +2986,9 @@ Text GLabel 4100 10725 2    50   Input ~ 0
 COL6-R
 Text GLabel 4100 11125 2    50   Input ~ 0
 ROW0-R
-Text GLabel 4700 9325 2    50   Input ~ 0
+Text GLabel 4100 11325 2    50   Input ~ 0
 ROW1-R
-Text GLabel 4550 9075 2    50   Input ~ 0
+Text GLabel 4100 11425 2    50   Input ~ 0
 ROW2-R
 Text GLabel 4100 11825 2    50   Input ~ 0
 ROW3-R
