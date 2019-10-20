@@ -35,14 +35,3 @@ Possible layouts are shown below - the pcb offers stepped caps lock, tsangan, an
   <img src="images/split_65_layout_two.png" alt="layout two"/>
   <figcaption><i>possible layout two</i></figcaption>
 </figure>
-
-
-- single layout plate  
-- 0 degree angle  
-- brass logo and weight
-
-## timeline
-
-prototypes completed by end of q1 2019
-
-revisions and necessary changes to be made to allow for group buy by end of q2
